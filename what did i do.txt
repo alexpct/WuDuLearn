@@ -1,0 +1,20 @@
+apt install python3-pip
+apt install python3-venv
+pip install Flask
+pip install pylti
+pip install gunicorn
+
+apt install docker
+pip install flask-mysqldb docker
+apt-get install libmariadb-dev
+
+
+pip install python-dotenv
+pip install flask_socketio
+apt-get install libssh-dev
+
+pip install websockets paramiko
+
+
+source lti_env/bin/activate
+
